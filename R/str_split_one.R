@@ -1,6 +1,6 @@
 #' Splits a string
 #'
-#' @param x A character vector with one element
+#' @param string A character vector with one element
 #' @inheritParams stringr::str_split
 #'
 #' @return A character vector.
